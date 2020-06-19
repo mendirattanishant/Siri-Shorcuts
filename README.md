@@ -33,5 +33,6 @@ https://medium.com/@pietropizzi/a-beginners-guide-to-developing-custom-intent-si
 
 https://developer.apple.com/documentation/sirikit/soup_chef_accelerating_app_interactions_with_shortcuts
 
+https://developer.apple.com/documentation/sirikit/deleting_donated_shortcuts
 
 [link1]: <https://developer.apple.com/documentation/sirikit/donating_shortcuts>
