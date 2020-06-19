@@ -1,8 +1,8 @@
 # Siri-Shorcuts
 A reference  guide for creating Siri Shortcuts
 
-Your app can make donations using one of the following objects:
-From apple's own [Donating Shortcuts article][link1], you can donate Shorcuts in 2 ways: 
+From apple's own [Donating Shortcuts article][link1], you can make donations for Shorcuts using one of the following objects: 
+
 > NSUserActivity. Donate the shortcut using a user activity when the action involves a view within your app, such as displaying recent transactions in a banking app.
 
 > INInteraction. Donate the shortcut using an interaction when the action involves a task the user accomplishes with your app, such as recording activity in a ski and snowboard tracking app.
